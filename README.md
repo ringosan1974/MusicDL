@@ -1,2 +1,2 @@
 # MusicDL
-youtube動画から音声を取得するshellscriptかきました
+youtube動画から音声を取得するshellscriptかきました（youtube_dl使ってるだけ)
